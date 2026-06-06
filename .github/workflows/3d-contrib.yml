@@ -1,0 +1,36 @@
+# Génère un graphe de contributions isométrique 3D dans profile-3d-contrib/
+# et le committe sur main. Aucun secret requis (GITHUB_TOKEN par défaut).
+name: 3d contrib
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 1x/jour
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution chart
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib
+          if git diff --staged --quiet; then
+            echo "no changes"
+          else
+            git commit -m "chore: update 3d contrib [skip ci]"
+            git push
+          fi

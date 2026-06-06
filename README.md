@@ -95,6 +95,17 @@ and tooling that turns prompts into shipped, tested code.
 
 ---
 
+### 📐 Detailed metrics
+
+<!-- Généré par l'Action `metrics` (lowlighter/metrics), committé sur main → fiable. -->
+<div align="center">
+
+<img src="./github-metrics.svg" alt="metrics" width="92%" />
+
+</div>
+
+---
+
 ### 🏆 Achievements unlocked
 
 <div align="center">
@@ -113,6 +124,13 @@ and tooling that turns prompts into shipped, tested code.
 
 </div>
 
+<!-- ░░ CONTRIB 3D : généré par l'Action `github-profile-3d-contrib`, committé sur main ░░ -->
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" width="95%" />
+
+</div>
+
 <!-- ░░ SNAKE : généré par la GitHub Action, voir instructions plus bas ░░ -->
 <div align="center">
 
@@ -123,6 +141,14 @@ and tooling that turns prompts into shipped, tested code.
 </picture>
 
 </div>
+
+---
+
+### ⚡ Recent activity
+
+<!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
