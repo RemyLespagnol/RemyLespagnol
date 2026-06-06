@@ -11,7 +11,7 @@
 <!-- ░░ HEADER ANIMÉ ░░ -->
 <a href="https://github.com/RemyLespagnol">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=70&lines=Hey%2C+I'm+R%C3%A9my+%F0%9F%90%BC;Senior+Software+Engineer+%40+Ogury;Based+in+Strasbourg+%F0%9F%87%AB%F0%9F%87%B7;I+ship+fast%2C+I+test+harder."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&height=70&lines=Hey%2C+I'm+R%C3%A9my+%F0%9F%90%BC;Senior+Software+Engineer+%40+Ogury;AI-native+%E2%80%94+I+build+WITH+agents%2C+every+day+%F0%9F%A4%96;Based+in+Strasbourg+%F0%9F%87%AB%F0%9F%87%B7;I+ship+fast%2C+I+test+harder."
     alt="typing header"
   />
 </a>
@@ -36,14 +36,18 @@ const remy = {
   company: "@Ogury",            // AdTech · performance · scale
   location: "Strasbourg, France 🇫🇷",
   code: ["TypeScript", "JavaScript", "Node.js", "React"],
-  tooling: ["Playwright", "CI/CD", "AI-assisted dev"],
+  tooling: ["Playwright", "CI/CD", "Datadog"],
+  ai: ["Claude Code", "Cursor", "Copilot", "Anthropic API"],
+  workflow: "AI-native — I orchestrate agents to ship faster, not to think less.",
   philosophy: "Ship fast, test harder, keep it green.",
   funFact: "Mascotte officielle : 🐼",
 } as const;
 ```
 
 I build and break things at web scale — currently obsessing over **test automation**,
-**performance**, and squeezing every last millisecond out of the ad delivery pipeline.
+**performance**, and **pushing how far AI agents can take a codebase**. I don't just *use*
+AI, I build entire workflows around it: multi-agent orchestration, autonomous PR loops,
+and tooling that turns prompts into shipped, tested code.
 
 ---
 
@@ -61,7 +65,22 @@ I build and break things at web scale — currently obsessing over **test automa
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
+
+---
+
+### 🤖 AI-native workflow
+
+> I treat AI agents as part of the team. Most of what I ship runs through a
+> multi-agent loop — **plan → execute → review → verify** — largely autonomously.
+> I don't use AI to think less; I use it to ship more, with the tests still green.
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anthropic_API-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" />
 </p>
 
 ---
@@ -69,9 +88,6 @@ I build and break things at web scale — currently obsessing over **test automa
 ### 📊 By the numbers
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=RemyLespagnol&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RemyLespagnol&layout=compact&langs_count=8&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26" alt="top languages" />
 
 <img src="https://streak-stats.demolab.com?user=RemyLespagnol&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=7aa2f7&fire=7aa2f7&currStreakLabel=7aa2f7&sideLabels=c0caf5&dates=565f89&currStreakNum=c0caf5&sideNums=c0caf5" alt="streak" />
 
@@ -84,8 +100,6 @@ I build and break things at web scale — currently obsessing over **test automa
 <div align="center">
 
 `🦈 Pull Shark ×4`  ·  `🤝 Pair Extraordinaire ×4`  ·  `⚡ Quickdraw`  ·  `🎲 YOLO`  ·  `🧊 Arctic Code Vault Contributor`
-
-<img src="https://github-profile-trophy.vercel.app/?username=RemyLespagnol&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
 
 </div>
 
