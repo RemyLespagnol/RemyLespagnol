@@ -95,17 +95,6 @@ and tooling that turns prompts into shipped, tested code.
 
 ---
 
-### 📐 Detailed metrics
-
-<!-- Généré par l'Action `metrics` (lowlighter/metrics), committé sur main → fiable. -->
-<div align="center">
-
-<img src="./github-metrics.svg" alt="metrics" width="92%" />
-
-</div>
-
----
-
 ### 🏆 Achievements unlocked
 
 <div align="center">
