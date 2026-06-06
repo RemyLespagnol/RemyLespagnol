@@ -11,7 +11,7 @@
 <!-- ░░ HEADER ANIMÉ ░░ -->
 <a href="https://github.com/RemyLespagnol">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&height=70&lines=Hey%2C+I'm+R%C3%A9my+%F0%9F%90%BC;Senior+Software+Engineer+%40+Ogury;AI-native+%E2%80%94+I+build+WITH+agents%2C+every+day+%F0%9F%A4%96;Based+in+Strasbourg+%F0%9F%87%AB%F0%9F%87%B7;I+ship+fast%2C+I+test+harder."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=760&height=70&lines=Hey%2C+I'm+R%C3%A9my+%F0%9F%90%BC;Staff+Engineer+%40+Ogury;AI-native+%E2%80%94+I+build+WITH+agents%2C+every+day+%F0%9F%A4%96;Based+in+Strasbourg+%F0%9F%87%AB%F0%9F%87%B7;I+ship+fast%2C+I+test+harder."
     alt="typing header"
   />
 </a>
@@ -32,7 +32,7 @@
 
 ```ts
 const remy = {
-  role: "Senior Software Engineer",
+  role: "Staff Engineer",
   company: "@Ogury",            // AdTech · performance · scale
   location: "Strasbourg, France 🇫🇷",
   code: ["TypeScript", "JavaScript", "Node.js", "React"],
