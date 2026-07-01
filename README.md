@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1109](https://github.com/rtk-ai/rtk/issues/1109#issuecomment-4620821427) in [rtk-ai/rtk](https://github.com/rtk-ai/rtk)
-2. 🎉 Merged PR [#14962](https://github.com/prebid/Prebid.js/pull/14962) in [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
-3. 💪 Opened PR [#14962](https://github.com/prebid/Prebid.js/pull/14962) in [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
+1. 🗣 Commented on [#3367](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3367#issuecomment-4845152226) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+2. 🗣 Commented on [#3367](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3367#issuecomment-4844541726) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+3. 🗣 Commented on [#3367](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3367#issuecomment-4844483195) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 <!--END_SECTION:activity-->
 
 ---
