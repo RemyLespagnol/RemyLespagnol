@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3367](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3367#issuecomment-4845152226) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
-2. 🗣 Commented on [#3367](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3367#issuecomment-4844541726) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
-3. 🗣 Commented on [#3367](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3367#issuecomment-4844483195) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+1. 🎉 Merged PR [#3367](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3367) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+2. 🗣 Commented on [#3367](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3367#issuecomment-4845152226) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
+3. 🗣 Commented on [#3367](https://github.com/Yeachan-Heo/oh-my-claudecode/pull/3367#issuecomment-4844541726) in [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)
 <!--END_SECTION:activity-->
 
 ---
