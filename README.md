@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RemyLespagnol/cursor-coworker/pull/1) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
-2. 💪 Opened PR [#1](https://github.com/RemyLespagnol/cursor-coworker/pull/1) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
-3. 🚀 Published release [v0.2.0](https://github.com/RemyLespagnol/haiku-scribe/releases/tag/v0.2.0) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
+1. 💪 Opened PR [#4](https://github.com/RemyLespagnol/cursor-coworker/pull/4) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
+2. 🎉 Merged PR [#3](https://github.com/RemyLespagnol/cursor-coworker/pull/3) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
+3. 💪 Opened PR [#3](https://github.com/RemyLespagnol/cursor-coworker/pull/3) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
 <!--END_SECTION:activity-->
 
 ---
