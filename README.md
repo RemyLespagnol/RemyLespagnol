@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/RemyLespagnol/cursor-coworker/pull/4) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
-2. 🎉 Merged PR [#3](https://github.com/RemyLespagnol/cursor-coworker/pull/3) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
-3. 💪 Opened PR [#3](https://github.com/RemyLespagnol/cursor-coworker/pull/3) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
+1. 💪 Opened PR [#6](https://github.com/RemyLespagnol/cursor-coworker/pull/6) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
+2. 🎉 Merged PR [#5](https://github.com/RemyLespagnol/cursor-coworker/pull/5) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
+3. 💪 Opened PR [#5](https://github.com/RemyLespagnol/cursor-coworker/pull/5) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
 <!--END_SECTION:activity-->
 
 ---
