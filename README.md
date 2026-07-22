@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.2](https://github.com/RemyLespagnol/cursor-coworker/releases/tag/v0.1.2) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
-2. 🚀 Published release [v0.1.2](https://github.com/RemyLespagnol/cursor-coworker/releases/tag/v0.1.2) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
-3. 🎉 Merged PR [#6](https://github.com/RemyLespagnol/cursor-coworker/pull/6) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
+1. 🔒 Closed issue [#112](https://github.com/vibeislandapp/vibe-island/issues/112) in [vibeislandapp/vibe-island](https://github.com/vibeislandapp/vibe-island)
+2. 🗣 Commented on [#112](https://github.com/vibeislandapp/vibe-island/issues/112#issuecomment-5037677626) in [vibeislandapp/vibe-island](https://github.com/vibeislandapp/vibe-island)
+3. 🚀 Published release [v0.1.2](https://github.com/RemyLespagnol/cursor-coworker/releases/tag/v0.1.2) in [RemyLespagnol/cursor-coworker](https://github.com/RemyLespagnol/cursor-coworker)
 <!--END_SECTION:activity-->
 
 ---
