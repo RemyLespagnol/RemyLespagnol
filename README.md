@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15630](https://github.com/prebid/Prebid.js/pull/15630) in [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
-2. 💪 Opened PR [#15630](https://github.com/prebid/Prebid.js/pull/15630) in [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
-3. 🔒 Closed issue [#112](https://github.com/vibeislandapp/vibe-island/issues/112) in [vibeislandapp/vibe-island](https://github.com/vibeislandapp/vibe-island)
+1. 🎉 Merged PR [#6](https://github.com/RemyLespagnol/haiku-scribe/pull/6) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
+2. 💪 Opened PR [#6](https://github.com/RemyLespagnol/haiku-scribe/pull/6) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
+3. 🎉 Merged PR [#15630](https://github.com/prebid/Prebid.js/pull/15630) in [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
 <!--END_SECTION:activity-->
 
 ---
