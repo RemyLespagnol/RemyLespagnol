@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/RemyLespagnol/haiku-scribe/pull/6) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
-2. 💪 Opened PR [#6](https://github.com/RemyLespagnol/haiku-scribe/pull/6) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
-3. 🎉 Merged PR [#15630](https://github.com/prebid/Prebid.js/pull/15630) in [prebid/Prebid.js](https://github.com/prebid/Prebid.js)
+1. 🚀 Published release [v0.3.0](https://github.com/RemyLespagnol/haiku-scribe/releases/tag/v0.3.0) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
+2. 🎉 Merged PR [#7](https://github.com/RemyLespagnol/haiku-scribe/pull/7) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
+3. 💪 Opened PR [#7](https://github.com/RemyLespagnol/haiku-scribe/pull/7) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
 <!--END_SECTION:activity-->
 
 ---
