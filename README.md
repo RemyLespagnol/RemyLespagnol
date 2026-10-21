@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/RemyLespagnol/sharp-compact/pull/5) in [RemyLespagnol/sharp-compact](https://github.com/RemyLespagnol/sharp-compact)
-2. 💪 Opened PR [#5](https://github.com/RemyLespagnol/sharp-compact/pull/5) in [RemyLespagnol/sharp-compact](https://github.com/RemyLespagnol/sharp-compact)
-3. 🎉 Merged PR [#4](https://github.com/RemyLespagnol/sharp-compact/pull/4) in [RemyLespagnol/sharp-compact](https://github.com/RemyLespagnol/sharp-compact)
+1. 🎉 Merged PR [#7](https://github.com/RemyLespagnol/sharp-compact/pull/7) in [RemyLespagnol/sharp-compact](https://github.com/RemyLespagnol/sharp-compact)
+2. 🎉 Merged PR [#6](https://github.com/RemyLespagnol/sharp-compact/pull/6) in [RemyLespagnol/sharp-compact](https://github.com/RemyLespagnol/sharp-compact)
+3. 💪 Opened PR [#7](https://github.com/RemyLespagnol/sharp-compact/pull/7) in [RemyLespagnol/sharp-compact](https://github.com/RemyLespagnol/sharp-compact)
 <!--END_SECTION:activity-->
 
 ---
