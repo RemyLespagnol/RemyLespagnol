@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.6](https://github.com/RemyLespagnol/haiku-scribe/releases/tag/v0.3.6) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
-2. 🎉 Merged PR [#13](https://github.com/RemyLespagnol/haiku-scribe/pull/13) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
-3. 💪 Opened PR [#13](https://github.com/RemyLespagnol/haiku-scribe/pull/13) in [RemyLespagnol/haiku-scribe](https://github.com/RemyLespagnol/haiku-scribe)
+1. 🗣 Commented on [#4](https://github.com/RemyLespagnol/fleet-x3-scratch/pull/4#issuecomment-7147562487) in [RemyLespagnol/fleet-x3-scratch](https://github.com/RemyLespagnol/fleet-x3-scratch)
+2. 🗣 Commented on [#4](https://github.com/RemyLespagnol/fleet-x3-scratch/pull/4#issuecomment-7147560988) in [RemyLespagnol/fleet-x3-scratch](https://github.com/RemyLespagnol/fleet-x3-scratch)
+3. 💪 Opened PR [#4](https://github.com/RemyLespagnol/fleet-x3-scratch/pull/4) in [RemyLespagnol/fleet-x3-scratch](https://github.com/RemyLespagnol/fleet-x3-scratch)
 <!--END_SECTION:activity-->
 
 ---
