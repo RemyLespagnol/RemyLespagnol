@@ -137,9 +137,9 @@ and tooling that turns prompts into shipped, tested code.
 
 <!-- Mis à jour automatiquement par l'Action `activity` (github-activity-readme). -->
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43](https://github.com/RemyLespagnol/fleet-x3-scratch/pull/43) in [RemyLespagnol/fleet-x3-scratch](https://github.com/RemyLespagnol/fleet-x3-scratch)
-2. ❌ Closed PR [#45](https://github.com/RemyLespagnol/fleet-x3-scratch/pull/45) in [RemyLespagnol/fleet-x3-scratch](https://github.com/RemyLespagnol/fleet-x3-scratch)
-3. ❌ Closed PR [#48](https://github.com/RemyLespagnol/fleet-x3-scratch/pull/48) in [RemyLespagnol/fleet-x3-scratch](https://github.com/RemyLespagnol/fleet-x3-scratch)
+1. 🗣 Commented on [#8](https://github.com/RemyLespagnol/fleet-m2-scratch/pull/8#issuecomment-7224028845) in [RemyLespagnol/fleet-m2-scratch](https://github.com/RemyLespagnol/fleet-m2-scratch)
+2. 🗣 Commented on [#6](https://github.com/RemyLespagnol/fleet-m2-scratch/pull/6#issuecomment-7223907822) in [RemyLespagnol/fleet-m2-scratch](https://github.com/RemyLespagnol/fleet-m2-scratch)
+3. 🗣 Commented on [#3](https://github.com/RemyLespagnol/fleet-m2-scratch/pull/3#issuecomment-7223737944) in [RemyLespagnol/fleet-m2-scratch](https://github.com/RemyLespagnol/fleet-m2-scratch)
 <!--END_SECTION:activity-->
 
 ---
